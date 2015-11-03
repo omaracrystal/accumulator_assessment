@@ -17,10 +17,10 @@
     }
   }
 
-module.exports = {
-  banner : banner,
-  justify : justify
-};
+  module.exports = {
+    banner : banner,
+    justify : justify
+  };
 
 })();
 
