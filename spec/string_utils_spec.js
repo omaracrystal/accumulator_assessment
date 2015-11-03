@@ -1,7 +1,7 @@
 // HINT: your code will need to export an object
 // that has two properties that are functions
 
-var stringUtils = require('./string_utils');
+var stringUtils = require('../string_utils');
 
 describe('stringUtils', function () {
 
