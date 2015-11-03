@@ -13,7 +13,6 @@
     var uppercase = string.toUpperCase();
     // add the specified number of exclamation points to both sides of the string
     var exclamation = "!".repeat(num);
-
     return exclamation + uppercase + exclamation;
   };
 
